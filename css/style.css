@@ -1,12 +1,19 @@
-html{
-  background-color:#EDF2C5;
+* {
+  margin:0px;
+  padding: 0px;
+}
+html {
+  background-color: #EDF2C5;
+  max-width: 1260px;
+  max-height: 940px;
+  margin: auto;
 }
 
-.container{
-  max-width:940px;
-  max-height: 1260px;
-  margin-left: 150px;
-  margin-right: 150px;
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 160px;
+  padding-right: 160px;
 }
 
 .headh1 h1 {
